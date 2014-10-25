@@ -5,7 +5,7 @@
 	
   <requiredProperties>
     <requiredProperty key="app-engine-version">
-      <defaultValue>1.9.13</defaultValue>
+      <defaultValue>1.9.14</defaultValue>
     </requiredProperty>
   </requiredProperties>
   
